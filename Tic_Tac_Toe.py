@@ -1,7 +1,7 @@
 #codigo creado por Jesus Estrada
 import pygame # <- Nos ayudará a crear una interfaz gráfica
-import time
-import random
+import time # <- Nos ayudará con los tiempos del juego
+import random # <- Nos ayudará con la aleatoriedad del juego
 
 #MEJORAS EN "ESPERA" (O TALVEZ NUNCA)
 # 1.- Sistema de "volver a jugar" una vez que acaba la partida
